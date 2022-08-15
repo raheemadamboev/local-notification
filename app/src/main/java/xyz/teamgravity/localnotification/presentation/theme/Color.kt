@@ -1,4 +1,4 @@
-package xyz.teamgravity.localnotification.ui.theme
+package xyz.teamgravity.localnotification.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package xyz.teamgravity.localnotification
+package xyz.teamgravity.localnotification.presentation.activity
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -7,9 +7,9 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.ui.Modifier
-import xyz.teamgravity.localnotification.ui.theme.LocalNotificationTheme
+import xyz.teamgravity.localnotification.presentation.theme.LocalNotificationTheme
 
-class MainActivity : ComponentActivity() {
+class Main : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
