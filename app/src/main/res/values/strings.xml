@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Local Notification</string>
+
+    <!-- Counter -->
+    <string name="show_notification">Show notification</string>
+
+    <!-- CounterNotification -->
+    <string name="increment_counter">Increment counter</string>
+    <string name="your_count">The count is %1$s</string>
+    <string name="increment">Increment</string>
+    <string name="counter">Counter</string>
+    <string name="increment_notifications">Used for the increment counter notifications</string>
 </resources>
